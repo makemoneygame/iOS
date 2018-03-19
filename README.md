@@ -1,0 +1,2 @@
+# iOS
+for "Xiuzhen" game
